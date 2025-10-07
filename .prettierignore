@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+dist/
+logs/
+drizzle/
+.vscode/
+.env
+package-lock.json
+package.json
+*.log
